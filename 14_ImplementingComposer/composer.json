@@ -1,0 +1,6 @@
+{
+	"require": {
+		"monolog/monolog": "3.3.*",
+		"doctrine/orm": "2.15.2"
+	}
+}
